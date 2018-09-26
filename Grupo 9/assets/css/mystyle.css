@@ -62,7 +62,6 @@
 	grid-column-end:1;
 	font-size:0.9rem;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	flex-grow:1; 
 	flex-shrink:1;
 	color:#F5F5F5;
@@ -95,7 +94,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 	
@@ -106,7 +104,6 @@
 	font-weight:bold;
 	font-size: 1.2rem;
 	font-family: Georgia;
-	font-color:#F5F5F5;
 	
 
 }
@@ -124,7 +121,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 
@@ -134,7 +130,6 @@
 	font-weight:bold;
 	font-size: 1.2rem;
 	font-family: Georgia;
-	font-color:#F5F5F5;
 	
 }
 
@@ -151,7 +146,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color: #F5F5F5;
 	background-color:#AB987A;
 	}
@@ -160,7 +154,6 @@
 	font-weight:bold;
 	font-size: 1.2rem;
 	font-family: Georgia;
-	font-color:#F5F5F5;
 }
 .box5{
 	border-style:solid;
@@ -175,7 +168,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 }
@@ -183,7 +175,6 @@
 	font-weight:bold;
 	font-size: 1.2rem;
 	font-family: Georgia;
-	font-color:#F5F5F5;
 	
 }
 .box6{
@@ -198,7 +189,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family:Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 }
@@ -206,7 +196,6 @@
 	font-weight:bold;
 	font-size: 1.2rem;
 	font-family: Georgia;
-	font-color:#F5F5F5;
 	
 
 }
@@ -234,7 +223,6 @@
 	grid-column-end:2;
 	font-size:0.9rem;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	flex-grow:1; 
 	flex-shrink:1;
 	color:#F5F5F5;
@@ -254,7 +242,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 	}
@@ -272,7 +259,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 	}
@@ -290,7 +276,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color: #F5F5F5;
 	background-color:#AB987A;
 	}
@@ -308,7 +293,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family: Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 	}
@@ -325,7 +309,6 @@
 	flex-grow:1; 
 	flex-shrink:1;
 	font-family:Arial, Lato;
-	font-color:#F5F5F5;
 	color:#F5F5F5;
 	background-color:#AB987A;
 }

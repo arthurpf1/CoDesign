@@ -60,7 +60,6 @@
 	display: none;
 	position: absolute;
 	background-color: #AB987A;
-    font-color:#0F1626;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
@@ -101,7 +100,6 @@
 .c2{
 	display:none;
 	position: absolute;
-	font-color: #0F1626;
 	background-color:#AB987A;
 	min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -122,7 +120,6 @@
 .c3{
 	display:none;
 	position: absolute;
-	font-color:#AB987A;
 	background-color: #AB987A;
 	min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -141,7 +138,6 @@
 .c4{
 	display: none;
     position: absolute;
-    font-color:#0F1626;
     background-color: #AB987A;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -159,7 +155,6 @@
 .c5{
 	display: none;
     position: absolute;
-    font-color:#0F1626;
     background-color: #AB987A;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -212,7 +207,7 @@
 
 
 .fotos_rotativas{
-	background-image: url("https://picsum.photos/1200/360/?random");
+	background-image: url("https://picsum.photos/1200/360/?image=527");
 	background-size:cover;
 	height: 360px;
 	padding: 1rem;
@@ -246,6 +241,8 @@
 	margin:2rem; 
 	font-size: 0.9rem;
 	}
+
+
 
 
 @media (max-width: 360px){
@@ -294,7 +291,5 @@
 	color: black;
 	
 	}
-
-
 
 }
